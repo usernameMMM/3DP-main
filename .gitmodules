@@ -1,3 +1,6 @@
 [submodule "rust-rocksdb"]
 	path = rust-rocksdb
 	url = https://github.com/facebook/rocksdb.git
+[submodule "wasm-opt-rs"]
+	path = wasm-opt-rs
+	url = https://github.com/brson/wasm-opt-rs.git

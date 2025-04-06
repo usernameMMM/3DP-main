@@ -5,3 +5,7 @@ members = [
 ]
 [profile.release]
 panic = 'unwind'
+
+[dependencies]
+rocksdb = { path = "rust-rocksdb" }
+
